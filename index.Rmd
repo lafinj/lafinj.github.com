@@ -1,32 +1,35 @@
 ---
-title: "Untitled"
-author: "John Lafin"
-date: "2/18/2019"
-output: 
-  html_document:
-    theme: spacelab
+title: "John Lafin"
+image: "john.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/john-lafin/"
+  - label: Bluesky
+    url: "https://bsky.app/profile/johnlafin.bsky.social"
+  - label: GitLab
+    url: "https://git.biohpc.swmed.edu/s133712"
+  - label: GitHub
+    url: "https://github.com/lafinj"
+output:
+  postcards::trestles
 ---
+ 
+## Bio
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+I'm a bench-to-bioinformatics researcher in the Strand Lab at UT Southwestern Medical Center in Dallas, TX. I leverage my background in biomedical research and expertise in single cell and spatial genomics to better understand the biology of the normal human lower urinary tract, informing investigations into diseases like bladder and prostate cancer and BPH. I also develop tools to help democratize single cell data and analysis pipelines.
 
-## R Markdown
+## Education
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+**The University of Iowa** | Iowa City, IA
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Ph.D. in Free Radical and Radiation Biology | August 2012 - June 2017
 
-```{r cars}
-summary(cars)
-```
+**The University of Texas at Austin** | Austin, TX
 
-## Including Plots
+B.S. in Biochemistry | August 2007 - May 2011
 
-You can also embed plots, for example:
+## Experience
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+**UT Southwestern** | Resch. Assoc. -> Comp. Biol. | July 2020 - Present
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+**UT Southwestern** | Postdoctoral Researcher | July 2017 - July 2020
