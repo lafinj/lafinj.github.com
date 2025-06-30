@@ -16,17 +16,17 @@ output:
  
 ## Bio
 
-I'm a bench-to-bioinformatics researcher in the Strand Lab at UT Southwestern Medical Center in Dallas, TX. I leverage my background in biomedical research and expertise in single cell and spatial genomics to better understand the biology of the normal human lower urinary tract, informing investigations into diseases like bladder and prostate cancer and BPH. I also develop tools to help democratize single cell data and analysis pipelines.
+I'm a bench-to-bioinformatics researcher in the [Strand Lab](https://strandlab.net) at UT Southwestern Medical Center in Dallas, TX. I leverage my background in biomedical research and expertise in single cell and spatial genomics to better understand the biology of the normal human lower urinary tract, informing investigations into diseases like cancer and benign prostatic hyperplasia. I also develop tools to help democratize single cell data and analysis pipelines.
 
 ## Education
 
 **The University of Iowa** | Iowa City, IA
 
-Ph.D. in Free Radical and Radiation Biology | August 2012 - June 2017
+Ph.D, Free Radical and Radiation Biology | August 2012 - June 2017
 
-**The University of Texas at Austin** | Austin, TX
+**The University of Texas** | Austin, TX
 
-B.S. in Biochemistry | August 2007 - May 2011
+B.S, Biochemistry | August 2007 - May 2011
 
 ## Experience
 
