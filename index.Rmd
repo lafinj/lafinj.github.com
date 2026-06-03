@@ -16,7 +16,7 @@ output:
  
 ## Bio
 
-I'm a bench-to-bioinformatics researcher in the [Strand Lab](https://strandlab.net) at UT Southwestern Medical Center in Dallas, TX. I leverage my background in biomedical research and expertise in single cell and spatial genomics to better understand the biology of the normal human lower urinary tract, informing investigations into diseases like cancer and benign prostatic hyperplasia. I also develop tools to help democratize single cell data and analysis pipelines.
+I'm a bioinformatics scientist at Bio-Rad Laboratories, where I help develop software to design ddPCR assays. Previousy, I was a computational biologist in the [Strand Lab](https://strandlab.net) at UT Southwestern, where I used single cell and spatial genomics to understand the biology of the normal human lower urinary tract, informing investigations into diseases like cancer and lower urinary tract dysfunction. 
 
 ## Education
 
@@ -30,6 +30,8 @@ B.S, Biochemistry | August 2007 - May 2011
 
 ## Experience
 
-**UT Southwestern** | Resch. Assoc. -> Comp. Biol. | July 2020 - Present
+**Bio-Rad Laboratories** | Bioinformatics Scientist | May 2026 - present
+
+**UT Southwestern** | Resch. Assoc. -> Comp. Biol. | July 2020 - April 2026
 
 **UT Southwestern** | Postdoctoral Researcher | July 2017 - July 2020
